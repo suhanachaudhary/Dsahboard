@@ -1,0 +1,65 @@
+.topNavbar{
+    border-bottom: 2px solid #fff;
+    height: 70px;
+    box-shadow: 4px 4px 6px #7C93C3;
+}
+.navbar-brand{
+    color:#fff !important;
+    font-family: cursive;
+    padding-left:23%;
+}
+.home, .availability{
+    height: 32vh;
+}
+.topNavbar {
+    
+    .nav-link{
+    font-size: 1.1rem;
+    font-weight: 600;
+    right: 0;
+    color:#fff !important
+    }
+}
+
+/* login page styling */
+.loginPage{
+    width: 24rem;
+    margin-top: 30px;
+    height: 260px;
+    border: 2px solid #fff;
+    background-color: #7C93C3;
+    border-radius: 16px;
+    box-shadow: 6px 6px 6px #7C93C3;
+    padding: 25px;
+}
+.btnClick{
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-top: 20px;
+    width:150px;
+    margin-left: 27%;
+}
+
+.footer{
+    margin-top: 33vh;
+    background-color: #7C93C3;
+    height: 140px;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    font-size: 1rem;
+    font-weight: 500;
+    position: sticky;
+    padding-bottom: 20px;
+}
+.footer .fa-brands{
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin: 4px;
+    cursor: pointer;
+}
+.footer .fa-brands:hover{
+    color:rgb(117, 117, 237);
+}
+
